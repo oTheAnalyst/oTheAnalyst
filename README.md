@@ -16,9 +16,15 @@ Here are some ideas to get you started:
 -->
 My name is Vincent and: 
 
+
 🔭 I'm currently working as Data Analyst for Pinnacle Innovations
+
+
 🌱 I’m currently learning alot about R, VIM, SQL, reproducibility, and machine learning
+
+
 👯 I’m looking to collaborate on advanced statistical programming software with other members in the public health field
+
 
 📫 How to reach me: michaelvcumbo21@proton.me
 
