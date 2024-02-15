@@ -20,7 +20,7 @@ My name is Vincent and:
 🔭 I'm currently working as a Data Analyst for Pinnacle Innovations.
 
 
-🌱 I’m currently learning a lot about R, VIM, SQL, reproducibility, and machine learning
+🌱 I’m currently learning a lot about R, VIM, SQL, reproducibility, automation and machine learning
 
 
 👯 I’m looking for a Data Analyst contract.
