@@ -23,8 +23,6 @@ My name is Vincent and:
 🌱 I’m currently learning a lot about R, VIM, SQL, reproducibility, automation, and machine learning
 
 
-👯 I’m looking for a Data Analyst contract/employment opportunities.
-
 
 🔍 My goals are to continue improving my data science skills in R programming as well as continue my research on the effects Labor Unions have on foreign policy.
 
