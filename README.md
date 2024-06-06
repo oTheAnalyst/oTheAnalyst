@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 My name is Vincent and: 
 
 
-🔭 I'm currently working as a Data Analyst for Pinnacle Innovations.
+🔭 I'm currently working as a Data Analyst.
 
 
 🌱 I’m currently learning a lot about R, VIM, SQL, reproducibility, automation, and machine learning
