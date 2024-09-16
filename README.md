@@ -20,7 +20,7 @@ My name is Vincent and:
 🔭 I'm currently working as a Data Analyst.
 
 
-🌱 I’m currently learning a lot about R, VIM, SQL, reproducibility, automation, and machine learning
+🌱 I’m currently learning a lot about R, VIM, SQL, Nixos & Nix, reproducibility, automation, and machine learning
 
 
 
