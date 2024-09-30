@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Vincent and: 
 
 
 🔭 I'm currently working as a Data Analyst.
