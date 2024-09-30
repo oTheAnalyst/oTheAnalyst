@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🔍 My goals are to continue improving my data science skills in R programming as well as continue my research on the effects Labor Unions have on foreign policy.
 
-📫 How to reach me: michaelvcumbo21@proton.me
+📫 How to reach me: Unfixable47@proton.me
 
 
 🌈 Pronouns: He/Him
