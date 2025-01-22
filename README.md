@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-🔍 My goals are to continue improving my data science skills in R programming as well as continue my research on the effects Labor Unions have on foreign policy.
+🔍 My goals are to continue improving my data science skills in R programming as well as continue my research on the effects of Labor Unions.
 
 📫 How to reach me: Unfixable47@proton.me
 
